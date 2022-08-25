@@ -1,0 +1,7 @@
+body{
+    font-family: "Poppins";
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
